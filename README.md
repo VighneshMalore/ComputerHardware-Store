@@ -151,10 +151,15 @@ Web Pages/images/
 
 ## ✨ Screenshots
 ![image](https://github.com/user-attachments/assets/e070a2a4-df68-426f-84fe-e9d6fdaa6a21)
+.
 ![image](https://github.com/user-attachments/assets/7b044005-3668-4372-9e78-9d5b52500713)
+.
 ![image](https://github.com/user-attachments/assets/ca19861a-1c9a-497a-93de-e5c9685fdb22)
+.
 ![image](https://github.com/user-attachments/assets/963ff10a-c720-4ba0-8ec5-4c4f9a12c313)
+.
 ![image](https://github.com/user-attachments/assets/8746150e-c66c-4812-a9a1-9ec2f3b8bf96)
+.
 ![image](https://github.com/user-attachments/assets/894b8a38-8a63-4686-ac14-d32378faee43)
 
 
